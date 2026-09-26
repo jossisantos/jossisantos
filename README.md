@@ -5,7 +5,7 @@
 </a>
 
 <div>
-    <img src="https://github.com/jossisantos/jossisantos/blob/main/arch_chicago95.gif?raw=true" alt="Apresentação" width="70%"/>
+    <img src="https://github.com/jossisantos/jossisantos/blob/main/arch_chicago95.gif?raw=true" alt="Apresentação" width="100%"/>
 </div>
 
 ## About me
