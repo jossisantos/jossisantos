@@ -10,7 +10,7 @@
 
 ## About me
 
-Estudante de Engenharia da Computação pela Universidade Federal do Ceará. Tenho interesse em robótica, sistemas embarcados e tecnologia assistiva, principalmente em BCI (Interface Cérebro-Computador) e pesquisa de Interação Humano-Computador (IHC). Até agora meus projetos são da faculdade, mas pretendo publicar mais coisas aqui com o tempo.
+Estudante de Engenharia da Computação pela Universidade Federal do Ceará. Tenho interesse em robótica, sistemas embarcados e tecnologia assistiva, principalmente em BCI (Interface Cérebro-Computador) e pesquisa de Interação Humano-Computador (IHC). Até agora meus projetos são da faculdade, então pretendo publicá-los aqui com o tempo.
 
 ## Main Skills
 
