@@ -1,4 +1,4 @@
-<img width="100%" src="header-cat.svg" alt="Pixel cat walking in a garden"/>
+<img width="100%" src="header-cat.svg" alt="Pixel cat walking in a city"/>
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=20&duration=2000&pause=500&color=D94FA8&width=600&lines=HELLO%2C+I'M+JOSSIELE;ROBOTICS+%26+EMBEDDED+SYSTEMS" alt="Typing SVG"/>
@@ -38,5 +38,6 @@ Computer Engineering student at the Federal University of Ceará. I'm interested
         <img src="https://img.shields.io/badge/LinkedIn-D94FA8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D94FA8&height=120&section=footer" alt="footer"/>
+<img width="100%" src="footer-cat.svg" alt="Pixel cat sleep"/>
