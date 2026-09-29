@@ -1,18 +1,18 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D94FA8&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D94FA8&width=435&lines=Ol%C3%A1%2C+sou+Jossiele;Rob%C3%B3tica+%26+Sistemas+Embarcados;BCI+%7C+Tecnologia+Assistiva+%7C+IHC" alt="Olá, sou Jossiele"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D94FA8&width=435&lines=Hello%2C+I%27m+Jossiele;Robotics+%26+Embedded+Systems" alt="Typing SVG"/>
 </a>
 
 <div>
-    <img src="https://github.com/jossisantos/jossisantos/blob/main/arch_chicago95.gif?raw=true" alt="Apresentação" width="100%"/>
+    <img src="https://github.com/jossisantos/jossisantos/blob/main/arch_chicago95.gif?raw=true" alt="Presentation" width="100%"/>
 </div>
 
 ## About me
 
-Estudante de Engenharia da Computação pela Universidade Federal do Ceará. Tenho interesse em robótica, sistemas embarcados e tecnologia assistiva, principalmente em BCI (Interface Cérebro-Computador) e pesquisa de Interação Humano-Computador (IHC). Até agora meus projetos são da faculdade, então pretendo publicá-los aqui com o tempo.
+Computer Engineering student at the Federal University of Ceará. I am interested in robotics, embedded systems, and assistive technology, especially BCI (Brain-Computer Interface).
 
-## Main Skills
+## Languages and Technologies
 
 <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
     <img src="https://skillicons.dev/icons?i=c" height="60" alt="C"/>
@@ -25,6 +25,9 @@ Estudante de Engenharia da Computação pela Universidade Federal do Ceará. Ten
 ## Contact me
 
 <div>
+    <a href="mailto:jossiele.dream.anti19@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D94FA8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
     <a href="https://www.instagram.com/jossisants">
         <img src="https://img.shields.io/badge/Instagram-D94FA8?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
