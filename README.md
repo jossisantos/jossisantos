@@ -1,20 +1,22 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D94FA8&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D94FA8&width=435&lines=Hello%2C+I%27m+Jossiele;Robotics+%26+Embedded+Systems" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=20&duration=2000&pause=500&color=D94FA8&width=600&lines=HELLO%2C+I'M+JOSSIELE;ROBOTICS+%26+EMBEDDED+SYSTEMS" alt="Typing SVG"/>
 </a>
 
 **`Embedded Systems Developer`**
 <div>
     <img src="https://github.com/jossisantos/jossisantos/blob/main/arch_chicago95.gif?raw=true" alt="Presentation" width="100%"/>
 </div>
+<br/>
 
-## About me
-
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=20&duration=1000&pause=100000&color=D94FA8&width=500&height=28&repeat=false&lines=ABOUT+ME" alt="About me"/><br/>
 Computer Engineering student at the Federal University of Ceará. I'm interested in robotics, embedded systems, and assistive technology, Human-Computer Interface, especially Brain-Computer Interface.
+</p>
+<br/>
 
-## Languages and Technologies
-
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=20&duration=1500&pause=100000&color=D94FA8&width=500&height=28&repeat=false&lines=LANGUAGES+AND+TECHNOLOGIES" alt="Languages and Technologies"/><br/>
 <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
     <img src="https://skillicons.dev/icons?i=c" height="60" alt="C"/>
     <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++"/>
@@ -22,9 +24,9 @@ Computer Engineering student at the Federal University of Ceará. I'm interested
     <img src="https://skillicons.dev/icons?i=arch" height="60" alt="Arch"/>
     <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="Arduino"/>
 </div>
+<br/>
 
-## Contact me
-
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=20&duration=1000&pause=100000&color=D94FA8&width=500&height=28&repeat=false&lines=CONTACT+ME" alt="Contact me"/><br/>
 <div>
     <a href="mailto:jossiele.dream.anti19@gmail.com">
         <img src="https://img.shields.io/badge/Email-D94FA8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
