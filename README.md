@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D94FA8&height=120&section=header" alt="header"/>
+<img width="100%" src="header-cat.svg" alt="Pixel cat walking in a garden"/>
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=20&duration=2000&pause=500&color=D94FA8&width=600&lines=HELLO%2C+I'M+JOSSIELE;ROBOTICS+%26+EMBEDDED+SYSTEMS" alt="Typing SVG"/>
