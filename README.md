@@ -4,13 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D94FA8&width=435&lines=Hello%2C+I%27m+Jossiele;Robotics+%26+Embedded+Systems" alt="Typing SVG"/>
 </a>
 
+**`Embedded Systems Developer`**
 <div>
     <img src="https://github.com/jossisantos/jossisantos/blob/main/arch_chicago95.gif?raw=true" alt="Presentation" width="100%"/>
 </div>
 
 ## About me
 
-Computer Engineering student at the Federal University of Ceará. I am interested in robotics, embedded systems, and assistive technology, especially BCI (Brain-Computer Interface).
+Computer Engineering student at the Federal University of Ceará. I'm interested in robotics, embedded systems, and assistive technology, Human-Computer Interface, especially Brain-Computer Interface.
 
 ## Languages and Technologies
 
