@@ -12,7 +12,7 @@
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=400&size=20&duration=1000&pause=100000&color=D94FA8&width=500&height=28&repeat=false&lines=ABOUT+ME" alt="About me"/><br/>
-Computer Engineering student at the Federal University of Ceará. I'm interested in robotics, embedded systems, and assistive technology, Human-Computer Interface, especially Brain-Computer Interface. Currently, all of my projects so far have been for student competitions, so I plan to post them here over time
+Computer Engineering student at the Federal University of Ceará. I'm interested in robotics, embedded systems, and assistive technology, Human-Computer Interface, especially Brain-Computer Interface. Currently, all of my projects so far have been for student competitions, so I plan to post them here over time.
 </p>
 <br/>
 
